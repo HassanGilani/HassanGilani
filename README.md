@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HassanGilani abd I am Microsoft Certified Windows Associate
-- 👀 I’m interested in apps and programs testing
-- 🌱 I’m currently learning windows 10 and windows 11.
-- 💞️ I’m looking to collaborate on different software testing programs.
+- 👋 Hi, I’m @HassanGilani and I am Microsoft Certified Windows Associate
+- 👀 I’m interested in apps and programs testing activities.
+- 🌱 I’m currently learning and working on windows 10 and windows 11.
+- 💞️ I’m looking to collaborate on different software testing programs offered by developers and companies..
 - 📫 How to reach me ... interlocutor1980@gmail.com
 
 <!---
